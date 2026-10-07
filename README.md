@@ -53,3 +53,4 @@ codesign --remove-signature "/path/to/Logs Manager.app"
 # Logs_Manager
 # Logs_Manager
 # Logs_Manager
+# Logs_Manager
