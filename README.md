@@ -51,3 +51,4 @@ codesign --remove-signature "/path/to/Logs Manager.app"
 
 После этого приложение будет запускаться как неподписанное, поэтому часть системных возможностей и нотаризация будут недоступны.
 # Logs_Manager
+# Logs_Manager
