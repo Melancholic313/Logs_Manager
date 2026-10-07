@@ -2,6 +2,12 @@
 
 Logs Manager — это приложение для macOS, которое помогает читать и понимать системные журналы, следить за нагрузкой CPU/GPU/RAM, записывать графики нагрузки и получать рекомендации на основе искусственного интеллекта.
 
+<img width="1470" height="839" alt="Снимок экрана — 2026-10-06 в 23 43 12" src="https://github.com/user-attachments/assets/6929cddb-7bbb-4901-9274-8a76bcc2ac09" />
+<img width="2940" height="1672" alt="image" src="https://github.com/user-attachments/assets/38a9abba-b342-4b96-b32c-6481862788e5" />
+<img width="2940" height="1674" alt="image" src="https://github.com/user-attachments/assets/852fe1cb-ec06-494c-8e01-d82509e2f117" />
+
+
+
 ## Важно
 
 Текущая сборка подписана **Ad-Hoc подписью**. При первом запуске macOS может заблокировать приложение. Инструкция по первому запуску находится в конце файла.
