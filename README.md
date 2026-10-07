@@ -53,6 +53,8 @@ Run the downloaded Logs.Manager.dmg and move the .app file inside it to the /App
 ## Поддержка разработчика / Developer support
 
 Если приложение оказалось полезным, вы можете поддержать автора:
+
+[DonationAlerts](https://dalink.to/melancholic313)
 ***
 If you found the app useful, you can support the author:
 
