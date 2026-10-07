@@ -1,5 +1,8 @@
 # Logs Manager
 
+![Russian](https://img.shields.io/badge/lang-russian-blue)
+![English](https://img.shields.io/badge/lang-english-green)
+
 Logs Manager — это приложение для macOS, которое помогает читать и понимать системные журналы, следить за нагрузкой CPU/GPU/RAM, записывать графики нагрузки и получать рекомендации на основе искусственного интеллекта.
 
 <img width="1470" height="839" alt="Снимок экрана — 2026-10-06 в 23 43 12" src="https://github.com/user-attachments/assets/6929cddb-7bbb-4901-9274-8a76bcc2ac09" />
